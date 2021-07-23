@@ -19,8 +19,9 @@
 <!-- PROJECT LOGO -->
 
   <h3 align="center">BeanStalk</h3>
-A fun app for coffee enthusiasts
+
   <p align="center">
+  A fun app for coffee enthusiasts
    A fun 
     <br />
     <a href="https://github.com/MaximPVladimirovich/Beanstalk_backend"><strong>Explore the backend docs »</strong></a>
