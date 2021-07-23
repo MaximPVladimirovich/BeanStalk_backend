@@ -14,7 +14,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Linkedin][linkedin-shield]][linkedin-url]
+[![James Maxim][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 
