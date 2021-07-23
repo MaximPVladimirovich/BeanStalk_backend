@@ -142,8 +142,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Vishakj Aswani Kumar - vishakhkumar.work@gmail.com
-Cubby Alexander - hall.j.alexander@gmail.com
+Vishakj Aswani Kumar - vishakhkumar.work@gmail.com <br />
+Cubby Alexander - hall.j.alexander@gmail.com<br />
 James Maxim Bleeker - maxim.bleeker@gmail.com
 
 Project Link React: [https://github.com/MaximPVladimirovich/BeanStalk_frontend](https://github.com/MaximPVladimirovich/BeanStalk_frontend)
